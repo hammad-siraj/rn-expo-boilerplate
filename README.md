@@ -23,6 +23,12 @@ In order to change app's name, please make necessary changes in `app.json`.
 > yarn start
 ```
 
+5. if you want to change the repo then run this command for pre-commit hooks
+
+```bash
+> npx husky install
+```
+
 </details>
 
 ## What's inside
