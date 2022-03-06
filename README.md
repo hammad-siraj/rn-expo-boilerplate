@@ -54,8 +54,6 @@ In order to change app's name, please make necessary changes in `app.json`.
 - `onStart` - a service where you can write your own logic when app is launched. For example, you can increment number of `appLaunches` there.
 - `configureDesignSystem()` - a method where all settings for an app's design system is taking place. You can customize there colors, schemes, typegraphy, spacings, etc.
 
-https://user-images.githubusercontent.com/4402166/135329411-adb90a0a-c884-4bbb-9f62-33e9adbd3123.MP4
-
 ## Advantages
 
 #### Ready-to-use Expo Config Plugins
@@ -188,6 +186,6 @@ So you have one structure within the project. You can find them in corresponding
 - [x] Expo Web support
 - [ ] Shared transitions — [IjzerenHein/react-navigation-shared-element](https://github.com/IjzerenHein/react-navigation-shared-element)
 
-### CREDITS
+#### Credits
 
 THIS EXPO STARTER EXTENDS THE https://github.com/kanzitelli/expo-starter.git with some mine personal customizations.
